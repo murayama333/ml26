@@ -1,4 +1,4 @@
-# ml2025
+# ml2026
 
 * [No.1](001.md)
   * [No.1 Ex](ex/001.md)
@@ -31,4 +31,4 @@
 
 ## 参考書籍
 
-> <https://www.amazon.co.jp/dp/4295009946>
+> https://www.amazon.co.jp/dp/4295009946
