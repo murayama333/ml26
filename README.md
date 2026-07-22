@@ -10,7 +10,8 @@
   * [Matplotlib](docs/md/02_libs/002_matplotlib.md)
     * [Ex](docs/ex/02_libs/002_matplotlib.md)
 * 機械学習
-  * [はじめての機械学習](docs/md/03_ml/002.md)
+  * [はじめての機械学習 - 教師あり学習](docs/md/03_ml/201.md)
+  * [はじめての機械学習 - 教師なし学習](docs/md/03_ml/202.md)
   
 
 <!-- 
