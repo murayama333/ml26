@@ -12,17 +12,16 @@
 * 機械学習
   * [はじめての機械学習 - 教師あり学習](docs/md/03_ml/201.md)
   * [はじめての機械学習 - 教師なし学習](docs/md/03_ml/202.md)
-  
+  * [機械学習の流れ](docs/005.md)
+  * [参考：データの作成](docs/006.md)
+  * [機械学習 - 分類 - 決定木](docs/007.md)
+  * [機械学習 - 回帰 - 線形回帰](docs/008.md)
 
 <!-- 
 * [No.2](docs/002.md)
 * [No.3](docs/003.md)
 * [No.4](docs/004.md)
   * [No.4 Ex](docs/ex/004.md)
-* [No.5](docs/005.md)
-* [No.6](docs/006.md)
-* [No.7](docs/007.md)
-* [No.8](docs/008.md)
 * [No.9](docs/009.md)
 * [No.10](docs/010.md)
 * [No.11](docs/011.md)
